@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Revisar los valores de los atributos del ensamblado
 
-<Assembly: AssemblyTitle("Hola Mundo")>
+<Assembly: AssemblyTitle("Variables_operaciones")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("Hola Mundo")>
+<Assembly: AssemblyProduct("Variables_operaciones")>
 <Assembly: AssemblyCopyright("Copyright ©  2018")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-<Assembly: Guid("aa3e9a1f-6f0a-444e-b91a-2b8b2b12f08c")>
+<Assembly: Guid("47c78c34-4bd8-4e28-8923-afd4ef8db813")>
 
 ' La información de versión de un ensamblado consta de los cuatro valores siguientes:
 '
