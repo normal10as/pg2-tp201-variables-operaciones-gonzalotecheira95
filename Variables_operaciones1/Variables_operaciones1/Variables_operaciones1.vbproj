@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{5F491562-380B-49A8-9EC1-DB29A0685263}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Variables_operaciones.valor_absolut</StartupObject>
+    <StartupObject>Variables_operaciones.EJ16</StartupObject>
     <RootNamespace>Variables_operaciones</RootNamespace>
     <AssemblyName>Variables_operaciones1</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -73,6 +73,11 @@
     <Compile Include="concatenacion.vb" />
     <Compile Include="ecuacionresult.vb" />
     <Compile Include="EJ12.vb" />
+    <Compile Include="EJ13.vb" />
+    <Compile Include="EJ14.vb" />
+    <Compile Include="EJ15.vb" />
+    <Compile Include="EJ16.vb" />
+    <Compile Include="Ej17.vb" />
     <Compile Include="operadores_logicos.vb" />
     <Compile Include="semanas.vb" />
     <Compile Include="sum4num.vb" />
